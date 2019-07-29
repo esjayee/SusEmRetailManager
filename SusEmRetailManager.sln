@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRMDataManager", "SRMDataMa
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SRMData", "SRMData\SRMData.sqlproj", "{E83D365A-DF74-4806-9EA9-D95EF3D03CC7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRMDesktopUI", "SRMDesktopUI\SRMDesktopUI.csproj", "{1F05274D-0264-490C-8486-A328C56C5717}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{E83D365A-DF74-4806-9EA9-D95EF3D03CC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E83D365A-DF74-4806-9EA9-D95EF3D03CC7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E83D365A-DF74-4806-9EA9-D95EF3D03CC7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{1F05274D-0264-490C-8486-A328C56C5717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F05274D-0264-490C-8486-A328C56C5717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F05274D-0264-490C-8486-A328C56C5717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F05274D-0264-490C-8486-A328C56C5717}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
